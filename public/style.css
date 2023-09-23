@@ -1,0 +1,38 @@
+
+h1{ 
+  
+    color: white;
+    background-color: #D7BBF5;
+   
+}
+
+
+h3{
+    color:burlywood;
+}
+.text{
+    text-align: center;
+}
+h2{
+color:rgb(106, 81, 19);
+}
+#photo{
+    color:grey;
+}
+
+ul{
+    color:black;
+}
+ol{
+    color:rgb(195, 146, 146);
+}
+a{
+    color:black;
+}
+
+h1,h4{
+    text-transform: uppercase;
+}
+.study-content{padding: 5px;
+    background-color: #EDE4FF;
+}
